@@ -20,7 +20,7 @@ public class App extends GameApplication {
     @Override
     protected void initSettings(GameSettings gameSettings) {
 
-        gameSettings.setTitle("Group 16 - Pong");
+        gameSettings.setTitle("Group 15 - Pong");
         gameSettings.setAppIcon("favicon.png");
 
 
